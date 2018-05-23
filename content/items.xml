@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<active description="Woof Woof" gfx="item.png" maxcharges="6" name="Chain Chomp" />
+</items>

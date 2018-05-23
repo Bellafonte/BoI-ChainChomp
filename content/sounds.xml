@@ -1,0 +1,8 @@
+<sounds root="sfx/">
+	<sound id="588" name="chainchomp">
+		<sample weight="1" path="chainchomp.wav"/>
+	</sound>
+	<sound id="589" name="chase">
+		<sample weight="1" path="chase.wav"/>
+	</sound>
+</sounds>

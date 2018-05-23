@@ -1,0 +1,11 @@
+<entities anm2root="gfx/" version="5">
+	<entity anm2path="head.anm2" baseHP="35" boss="0" champion="0" collisionDamage="0" collisionMass="10" collisionRadius="10" friction="1" id="999" name="ChainChomp" numGridCollisionPoints="10" shadowSize="24" stageHP="0" variant="0" shutdoors="false">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	<entity anm2path="base.anm2" baseHP="20" boss="0" champion="0" collisionDamage="0" collisionMass="1000" collisionRadius="10" friction="0" id="998" name="ChainChompBase" numGridCollisionPoints="0" shadowSize="10" stageHP="0" variant="0" shutdoors="false">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+	<entity anm2path="ring.anm2" baseHP="0" boss="0" champion="0" gridCollision="none" collisionDamage="0" collisionMass="0" collisionRadius="-1" friction="0" id="997" name="ChainChompRing" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="0" shutdoors="false">
+		<gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+	</entity>
+</entities>
